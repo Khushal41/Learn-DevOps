@@ -110,8 +110,8 @@ Step 4: Setup GitHub Repository
 2. Create a new repository (example: myrepo)
 3. Add README.md and License (MIT)
 4. Example README content:
-   # My First Repo
-   This is my practice repository.
+# My First Repo
+This is my practice repository.
 
 Step 5: Clone Repository to EC2
 ```
